@@ -124,7 +124,7 @@
   }
   
   .contenedor .form .btn-submit:hover input{
-    font-size: 26px;
+    color: black;
   }
   
   .contenedor-service {
@@ -303,6 +303,7 @@
       flex-direction: column;
       align-items: center;
     }
+
   }
   
   @media (max-width: 1362px) {
